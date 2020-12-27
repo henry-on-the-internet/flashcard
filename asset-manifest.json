@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/%7Bhttp://narrator-fiction.github.io/flashcard%7D/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/%7Bhttp://narrator-fiction.github.io/flashcard%7D/static/js/main.2d0b1663.chunk.js",
-    "main.js.map": "/%7Bhttp://narrator-fiction.github.io/flashcard%7D/static/js/main.2d0b1663.chunk.js.map",
-    "runtime-main.js": "/%7Bhttp://narrator-fiction.github.io/flashcard%7D/static/js/runtime-main.a4689bda.js",
-    "runtime-main.js.map": "/%7Bhttp://narrator-fiction.github.io/flashcard%7D/static/js/runtime-main.a4689bda.js.map",
-    "static/js/2.1f37c451.chunk.js": "/%7Bhttp://narrator-fiction.github.io/flashcard%7D/static/js/2.1f37c451.chunk.js",
-    "static/js/2.1f37c451.chunk.js.map": "/%7Bhttp://narrator-fiction.github.io/flashcard%7D/static/js/2.1f37c451.chunk.js.map",
-    "static/js/3.a9c8aeab.chunk.js": "/%7Bhttp://narrator-fiction.github.io/flashcard%7D/static/js/3.a9c8aeab.chunk.js",
-    "static/js/3.a9c8aeab.chunk.js.map": "/%7Bhttp://narrator-fiction.github.io/flashcard%7D/static/js/3.a9c8aeab.chunk.js.map",
+    "main.css": "/%7Bhttp://narrator-fiction.github.io/flashcard%7D/static/css/main.e03323d0.chunk.css",
+    "main.js": "/%7Bhttp://narrator-fiction.github.io/flashcard%7D/static/js/main.af5c43d8.chunk.js",
+    "main.js.map": "/%7Bhttp://narrator-fiction.github.io/flashcard%7D/static/js/main.af5c43d8.chunk.js.map",
+    "runtime-main.js": "/%7Bhttp://narrator-fiction.github.io/flashcard%7D/static/js/runtime-main.889206e2.js",
+    "runtime-main.js.map": "/%7Bhttp://narrator-fiction.github.io/flashcard%7D/static/js/runtime-main.889206e2.js.map",
+    "static/js/2.f3f1b239.chunk.js": "/%7Bhttp://narrator-fiction.github.io/flashcard%7D/static/js/2.f3f1b239.chunk.js",
+    "static/js/2.f3f1b239.chunk.js.map": "/%7Bhttp://narrator-fiction.github.io/flashcard%7D/static/js/2.f3f1b239.chunk.js.map",
+    "static/js/3.9a1560f3.chunk.js": "/%7Bhttp://narrator-fiction.github.io/flashcard%7D/static/js/3.9a1560f3.chunk.js",
+    "static/js/3.9a1560f3.chunk.js.map": "/%7Bhttp://narrator-fiction.github.io/flashcard%7D/static/js/3.9a1560f3.chunk.js.map",
     "index.html": "/%7Bhttp://narrator-fiction.github.io/flashcard%7D/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/%7Bhttp://narrator-fiction.github.io/flashcard%7D/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.1f37c451.chunk.js.LICENSE.txt": "/%7Bhttp://narrator-fiction.github.io/flashcard%7D/static/js/2.1f37c451.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/%7Bhttp://narrator-fiction.github.io/flashcard%7D/static/media/logo.6ce24c58.svg"
+    "static/css/main.e03323d0.chunk.css.map": "/%7Bhttp://narrator-fiction.github.io/flashcard%7D/static/css/main.e03323d0.chunk.css.map",
+    "static/js/2.f3f1b239.chunk.js.LICENSE.txt": "/%7Bhttp://narrator-fiction.github.io/flashcard%7D/static/js/2.f3f1b239.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a4689bda.js",
-    "static/js/2.1f37c451.chunk.js",
-    "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.2d0b1663.chunk.js"
+    "static/js/runtime-main.889206e2.js",
+    "static/js/2.f3f1b239.chunk.js",
+    "static/css/main.e03323d0.chunk.css",
+    "static/js/main.af5c43d8.chunk.js"
   ]
 }
