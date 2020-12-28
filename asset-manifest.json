@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/%7Bhttp://narrator-fiction.github.io/flashcard%7D/static/css/main.e03323d0.chunk.css",
-    "main.js": "/%7Bhttp://narrator-fiction.github.io/flashcard%7D/static/js/main.78c9625c.chunk.js",
-    "main.js.map": "/%7Bhttp://narrator-fiction.github.io/flashcard%7D/static/js/main.78c9625c.chunk.js.map",
-    "runtime-main.js": "/%7Bhttp://narrator-fiction.github.io/flashcard%7D/static/js/runtime-main.de1f46bd.js",
-    "runtime-main.js.map": "/%7Bhttp://narrator-fiction.github.io/flashcard%7D/static/js/runtime-main.de1f46bd.js.map",
-    "static/js/2.fbc70924.chunk.js": "/%7Bhttp://narrator-fiction.github.io/flashcard%7D/static/js/2.fbc70924.chunk.js",
-    "static/js/2.fbc70924.chunk.js.map": "/%7Bhttp://narrator-fiction.github.io/flashcard%7D/static/js/2.fbc70924.chunk.js.map",
-    "index.html": "/%7Bhttp://narrator-fiction.github.io/flashcard%7D/index.html",
-    "static/css/main.e03323d0.chunk.css.map": "/%7Bhttp://narrator-fiction.github.io/flashcard%7D/static/css/main.e03323d0.chunk.css.map",
-    "static/js/2.fbc70924.chunk.js.LICENSE.txt": "/%7Bhttp://narrator-fiction.github.io/flashcard%7D/static/js/2.fbc70924.chunk.js.LICENSE.txt"
+    "main.css": "/flashcard/static/css/main.e03323d0.chunk.css",
+    "main.js": "/flashcard/static/js/main.51827e98.chunk.js",
+    "main.js.map": "/flashcard/static/js/main.51827e98.chunk.js.map",
+    "runtime-main.js": "/flashcard/static/js/runtime-main.2300f464.js",
+    "runtime-main.js.map": "/flashcard/static/js/runtime-main.2300f464.js.map",
+    "static/js/2.f3f1b239.chunk.js": "/flashcard/static/js/2.f3f1b239.chunk.js",
+    "static/js/2.f3f1b239.chunk.js.map": "/flashcard/static/js/2.f3f1b239.chunk.js.map",
+    "index.html": "/flashcard/index.html",
+    "static/css/main.e03323d0.chunk.css.map": "/flashcard/static/css/main.e03323d0.chunk.css.map",
+    "static/js/2.f3f1b239.chunk.js.LICENSE.txt": "/flashcard/static/js/2.f3f1b239.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.de1f46bd.js",
-    "static/js/2.fbc70924.chunk.js",
+    "static/js/runtime-main.2300f464.js",
+    "static/js/2.f3f1b239.chunk.js",
     "static/css/main.e03323d0.chunk.css",
-    "static/js/main.78c9625c.chunk.js"
+    "static/js/main.51827e98.chunk.js"
   ]
 }
