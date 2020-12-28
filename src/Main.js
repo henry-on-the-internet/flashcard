@@ -1,4 +1,5 @@
 import React from 'react';
+import ReactDOM from 'react-dom';
 import Header from './Header';
 import CardContainer from './CardContainer';
 import './Main.css';
@@ -16,5 +17,5 @@ class Main extends React.Component {
     }
   }
   
-//   ReactDOM.render(<Main />, document.getElementById('app'));
+// ReactDOM.render(<Main />, document.getElementById('root'));
 export default Main;
