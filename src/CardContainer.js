@@ -13,7 +13,7 @@ class CardContainer extends React.Component {
           description: 'A type of music of black American origin characterized by improvisation, syncopation, and usually a regular or forceful rhythm, emerging at the beginning of the 20th century.',
         }, {
           word: 'Reggae',
-          description: 'Music like Bob Marley, man.',
+          description: 'Popular music of Jamaican origin that combines native styles with elements of rock and soul music and is performed at moderate tempos with the accent on the offbeat. It was widely perceived as a voice of the oppressed.',
         }, {
           word: 'Folk',
           description: 'Music like Bob Dylan, man.',
