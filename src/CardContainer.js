@@ -16,7 +16,7 @@ class CardContainer extends React.Component {
           description: 'Popular music of Jamaican origin that combines native styles with elements of rock and soul music and is performed at moderate tempos with the accent on the offbeat. It was widely perceived as a voice of the oppressed.',
         }, {
           word: 'Folk',
-          description: 'Music like Bob Dylan, man.',
+          description: 'Originating or traditional with the common people of a country or region and typically reflecting their lifestyle folk hero folk music.',
         }
       ]),
         cardNumber: 0
