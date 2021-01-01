@@ -1,29 +1,5 @@
 import React from 'react';
 
-class Header extends React.Component {
-    constructor() {
-      super();
-      this.state = {
-        showModal: false
-      }
-    }
-     
-    render() {
-      return (
-        <div className='header'>
-          <div className='header-content header-content__left'>
-            
-          </div>
-          <div className='header-content header-content__middle'>
-            Flash Cards
-          </div>
-          <div className='header-content header-content__right'>
-            
-          </div>
-        </div>
-      )
-    }
-  }
   class Card extends React.Component {
     
     constructor() {
@@ -45,7 +21,7 @@ class Header extends React.Component {
           className={`card ${cardClass}`}
           onClick={() => this.setState({showAnswer: !this.state.showAnswer})}
         >
-        <span className='card__counter'>{this.props.cardNumber + 1}</span>
+          <span className='card__counter'>Card No. {this.props.cardNumber + 1}</span>
           <div 
             className='card__flip-card'
             onClick={ () => {
@@ -66,7 +42,7 @@ class Header extends React.Component {
                 this.setState({showAnswer: false});
               }}
             >
-              Prev
+              Prev Card
             </div>
             <div 
               className='card__next-button'
@@ -75,7 +51,7 @@ class Header extends React.Component {
                 this.setState({showAnswer: false});
               }}
             >
-              Next
+              Next Card
             </div>
           </div>
         </div>
