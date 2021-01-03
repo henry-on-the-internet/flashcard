@@ -15,13 +15,15 @@ import React from 'react';
       const cardClass = this.state.showAnswer ? 'back' : '';
       const contentClass = this.state.showAnswer ? 'back' : 'front';
       const actionClass = this.state.showAnswer ? 'active' : '';
-  
+      const card_no = this.props.cardNumber + 1 ;
+
       return (
+        
         <div 
           className={`card ${cardClass}`}
           onClick={() => this.setState({showAnswer: !this.state.showAnswer})}
         >
-          <span className='card__counter'>Card No. {this.props.cardNumber + 1}</span>
+          <span className='card__counter'>Card No. {card_no}</span>
           <div 
             className='card__flip-card'
             onClick={ () => {
